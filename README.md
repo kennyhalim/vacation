@@ -2,7 +2,7 @@
 
 #### _Vacation 01/10/2019_
 
-#### By _**Kenny Hilam and Olha Wysocky**_
+#### By _**Kenny Halim and Olha Wysocky**_
 
 ## Description
 
@@ -24,4 +24,4 @@ _Feel free to adjust this code, cause we are total noobs._
 MIT
 **
 
-Copyright (c) 2019 **_Kenny Hilam  and Olha Wysocky_**
+Copyright (c) 2019 **_Kenny Halim  and Olha Wysocky_**
